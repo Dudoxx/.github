@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏥 Dudoxx</h1>
+  <img src="https://raw.githubusercontent.com/dudoxx/.github/main/profile/dudoxx-logo-modern.png" alt="Dudoxx Logo" width="200"/>
   <h2>🤖 AI-Powered Medical Documentation</h2>
   <p><em>Transform Your Medical Documentation with Artificial Intelligence</em></p>
 </div>
