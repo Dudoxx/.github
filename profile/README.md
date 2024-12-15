@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏥 Dudoxx</h1>
+  <img src="https://avatars.githubusercontent.com/u/149264561" alt="Dudoxx Logo" width="150" style="border-radius: 10px;"/>
   <h2>Transform Medical Documentation with AI</h2>
   <p><em>Save 40-60% Time with Intelligent Documentation & AI-Generated Reports</em></p>
 </div>
