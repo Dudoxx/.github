@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/149264561" alt="Dudoxx Logo" width="200"/>
-  <h1>Welcome to Dudoxx</h1>
-  <p><em>Transform Medical Documentation with AI</em></p>
+  <h1>🏥 Dudoxx</h1>
+  <h2>Transform Medical Documentation with AI</h2>
+  <p><em>Save 40-60% Time with Intelligent Documentation & AI-Generated Reports</em></p>
 </div>
 
 ## 🌟 About Dudoxx
 
-Dudoxx is revolutionizing medical documentation through advanced AI technology. We help healthcare professionals save 40-60% of their time with intelligent documentation and AI-generated reports.
+Dudoxx is revolutionizing medical documentation through advanced AI technology. We help healthcare professionals save valuable time with intelligent documentation and AI-generated reports.
 
 ### 🚀 Our Mission
 
@@ -34,8 +34,8 @@ To streamline medical documentation processes and empower healthcare professiona
 - 📍 Based in Germany
 
 <div align="center">
-  <h3>Try Dudoxx Free Today</h3>
-  <a href="https://www.dudoxx.com/try-free" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Get Started</a>
+  <h3>Ready to Transform Your Medical Documentation?</h3>
+  <a href="https://www.dudoxx.com/try-free" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Try Dudoxx Free</a>
 </div>
 
 ---
