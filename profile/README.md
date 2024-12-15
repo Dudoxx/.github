@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://www.dudoxx.com/logo.png" alt="Dudoxx Logo" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/149264561" alt="Dudoxx Logo" width="200"/>
   <h1>Welcome to Dudoxx</h1>
-  <p><strong>Transform Medical Documentation with AI</strong></p>
+  <p><em>Transform Medical Documentation with AI</em></p>
 </div>
 
 ## 🌟 About Dudoxx
@@ -21,17 +21,22 @@ To streamline medical documentation processes and empower healthcare professiona
 
 ### 🔍 What We Offer
 
-- Voice recording and transcription
-- Automated report generation
-- Patient data management
-- Intelligent documentation assistance
-- 150+ medical report templates
+- 🎙️ Voice recording and transcription
+- 📝 Automated report generation
+- 👥 Patient data management
+- 🤖 Intelligent documentation assistance
+- 📚 150+ medical report templates
 
-### 🌐 Get Started
+### 🌐 Connect With Us
 
-Try Dudoxx today and experience the future of medical documentation:
-- 🔗 [Visit our website](https://www.dudoxx.com)
-- 🎯 [Try Dudoxx Free](https://www.dudoxx.com/try-free)
+- 🔗 [Website](https://www.dudoxx.com)
+- ✉️ [Contact Us](mailto:contact@dudoxx.com)
+- 📍 Based in Germany
+
+<div align="center">
+  <h3>Try Dudoxx Free Today</h3>
+  <a href="https://www.dudoxx.com/try-free" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Get Started</a>
+</div>
 
 ---
 
